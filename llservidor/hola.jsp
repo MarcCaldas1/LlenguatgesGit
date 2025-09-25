@@ -2,7 +2,7 @@
 <html>
 <body>
 <%
-    out.println("Hola, Ramis!");
+    out.println("Hola, Menorca!");
 %>
 </body>
 </html>

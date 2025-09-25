@@ -3,7 +3,7 @@
 <html>
 <body>
 <%
-    Response.Write("Hola, Ramis!");
+    Response.Write("Hola, Menorca!");
 %>
 </body>
 </html>
